@@ -1,0 +1,14 @@
+{
+  "name": "beats-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to play music",
+  "main": "index.js",
+  "scripts": {
+    "test": "beats-bot"
+  },
+  "author": "ravenousByte",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
